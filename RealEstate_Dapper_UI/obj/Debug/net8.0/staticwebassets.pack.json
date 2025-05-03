@@ -5,6 +5,202 @@
       "PackagePath": "staticwebassets\\RealEstate_Dapper_UI.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\css\\style-starter.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style-starter.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\404.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\404.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\Villa1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Villa1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\about1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\client1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\client2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\client3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client3.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\client4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client4.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\client5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client5.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\client6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\client6.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\down.png",
+      "PackagePath": "staticwebassets\\assets\\images\\down.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\l1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\l1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\l2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\l2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\l3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\l3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\l4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\l4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\l5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\l5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\p1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\p5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\p6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\p6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\p7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\p7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\p8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\p8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\single.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\stats.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\stats.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\team4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\team5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\team6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\who.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\who.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\images\\who1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\who1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\js\\jquery.countup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.countup.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\assets\\js\\theme-change.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme-change.js"
+    },
+    {
       "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
@@ -19,6 +215,30 @@
     {
       "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\images\\5.jpeg",
+      "PackagePath": "staticwebassets\\images\\5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
     },
     {
       "Id": "C:\\Users\\Dell\\source\\repos\\RealEstate_Dapper_Api\\RealEstate_Dapper_UI\\wwwroot\\img\\user.jpg",
