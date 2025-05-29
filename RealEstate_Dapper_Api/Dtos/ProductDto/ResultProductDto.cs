@@ -8,5 +8,8 @@
         public string City { get; set; }
         public string District { get; set; }
         public int ProductCategory { get; set; }
+        public int CoverImage { get; set; }
+        public int Type { get; set; }
+        public int Address { get; set; }
     }
 }
