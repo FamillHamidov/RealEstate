@@ -21,6 +21,7 @@
                                 <th scope="col">Type</th>
                                 <th scope="col">Update</th>
                                 <th scope="col">Delete</th>
+                                <th scope="col">View Site</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -33,13 +34,14 @@
                                     <td>@item.district</td>
                                     <td>@item.price</td>
                                     <td>@item.type</td>
-                                    <td><a href="/Category/DeleteCategory/" class="btn btn-outline-danger">Delete</a></td>
-                                    <td><a href="/Category/UpdateCategory/" class="btn btn-outline-success">Update</a></td>
+                                    <td><a href="/Product/DeleteCategory/" class="btn btn-outline-danger">Delete</a></td>
+                                    <td><a href="/Product/UpdateCategory/" class="btn btn-outline-success">Update</a></td>
+                                    <td><a href="/Product/ProductDetail/" class="btn btn-outline-info">View Site</a></td>
                                 </tr>
                             }
                         </tbody>
                     </table>
-                    <a href="/Category/CreateCategory" class="btn btn-outline-primary">New Product</a>
+                    <a href="/Product/CreateProduct" class="btn btn-outline-primary">New Product</a>
                 </div>
             </div>
         </div>

@@ -1,0 +1,42 @@
+﻿@model CreateProductDto
+@{
+    ViewData["Title"] = "CreateProduct";
+    Layout = "~/Views/Admin/Index.cshtml";
+}
+
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4">Create Product</h6>
+                <form method="post" class="form-group">
+                    <label>Title</label>
+                    <input asp-for="title" class="form-control" placeholder="Please enter title" />
+                    <br />
+                    <label>City</label>
+                    <input asp-for="city" class="form-control" placeholder="Please enter city" />
+                    <br />
+                    <label>District</label>
+                    <input asp-for="district" class="form-control" placeholder="Please enter district" />
+                    <br />
+                    <label>Category</label>
+                   @Html.DropDownListFor(x=>x.categoryId, (List<SelectListItem>)ViewBag.v,new {@class="form-control"})
+                    <br />
+                    <label>Price</label>
+                    <input asp-for="price" class="form-control" placeholder="Please enter price" />
+                    <br />
+                    <label>Type</label>
+                    <input asp-for="type" class="form-control" placeholder="Please enter type" />
+                    <br />
+                    <label>Picture</label>
+                    <input asp-for="coverimage" class="form-control" placeholder="Please enter picture url" />
+                    <br />
+                    <label>Address</label>
+                    <textarea asp-for="address" class="form-control" rows="5" placeholder="Please enter address"></textarea>
+                    <br />
+                    <button class="btn btn-primary">Save</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
