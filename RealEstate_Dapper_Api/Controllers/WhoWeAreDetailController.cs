@@ -30,7 +30,7 @@ namespace RealEstate_Dapper_Api.Controllers
             _whoWeAreDetailRepository.CreateWhoWeAreDetail(createWhoWeAreDetailDto);
             return Ok("Who We Are Detail successfully added");
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteWhoWeAreDetail(int id)
         {
             _whoWeAreDetailRepository.DeleteWhoWeAreDetail(id);
