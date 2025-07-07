@@ -22,6 +22,7 @@
                                 <th scope="col">Update</th>
                                 <th scope="col">Delete</th>
                                 <th scope="col">View Site</th>
+                                <th scope="col">Deal Of The Day</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -37,6 +38,16 @@
                                     <td><a href="/Product/DeleteCategory/" class="btn btn-outline-danger">Delete</a></td>
                                     <td><a href="/Product/UpdateCategory/" class="btn btn-outline-success">Update</a></td>
                                     <td><a href="/Product/ProductDetail/" class="btn btn-outline-info">View Site</a></td>
+                                    <td>
+                                        @if (item.DealOfTheDay == true)
+                                        {
+                                            <a href="/Product/ProductDetail/" class="btn btn-success">Passive</a>
+                                        }
+                                        @if (item.DealOfTheDay == false)
+                                        {
+                                            <a href="/Product/ProductDetail/" class="btn btn-warning">Active</a>
+                                        }
+                                    </td>
                                 </tr>
                             }
                         </tbody>

@@ -6,7 +6,7 @@
 }
 <style>
     img{
-        border-radius:100%;
+        border-radius:50%;
     }
 </style>
 <div class="container-fluid pt-4 px-4">
@@ -31,7 +31,7 @@
                                 <tr>
                                     <th scope="row">@count</th>
                                     <td><img src="@item.ImageUrl" heigh="50" width="50"/> @item.CityName</td>
-                                    <td><a href="/PopularLocation/DeletePopularLocation/@item.Id" class="btn btn-outline-danger">Delete</a></td>
+                                    <td><a href="/PopularLocation/DeletePopularLocation/@item.Id" onclick="return confirm('Are you sure you want to delete?')" class="btn btn-outline-danger">Delete</a></td>
                                     <td><a href="/PopularLocation/UpdatePopularLocation/@item.Id" class="btn btn-outline-success">Update</a></td>
                                 </tr>
                             }
