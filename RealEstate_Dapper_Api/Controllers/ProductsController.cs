@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using RealEstate_Dapper_Api.Dtos.ProductDto;
 using RealEstate_Dapper_Api.Repositories.ProductRepository;
 
 namespace RealEstate_Dapper_Api.Controllers
@@ -45,11 +46,23 @@ namespace RealEstate_Dapper_Api.Controllers
             var values = await _productRepository.GetLastFiveProductAsync();
             return Ok(values);
         }
-        [HttpGet("GetProductAdsListWithCategoryByEmployee")]
-        public async Task<IActionResult> GetProductAdsListWithCategoryByEmployee(int id)
+        [HttpGet("GetProductAdsListWithCategoryByEmployeeByTrue")]
+        public async Task<IActionResult> GetProductAdsListWithCategoryByEmployeeByTrue(int id)
         {
-            var values=await _productRepository.GetProductAdsListWithCategoryByEmployeeAsync(id);
+            var values=await _productRepository.GetProductAdsListWithCategoryByEmployeeAsyncByTrue(id);
             return Ok(values);  
+        }
+        [HttpGet("GetProductAdsListWithCategoryByEmployeeByFalse")]
+        public async Task<IActionResult> GetProductAdsListWithCategoryByEmployeeByFalse(int id)
+        {
+            var values = await _productRepository.GetProductAdsListWithCategoryByEmployeeAsyncByFalse(id);
+            return Ok(values);
+        }
+        [HttpPost]
+        public async Task<IActionResult> CreateProduct(CreateProductDto createProductDto)
+        {
+            await _productRepository.CreateProduct(createProductDto);
+            return Ok("Product added successfuly");
         }
     }
 }

@@ -1,0 +1,48 @@
+﻿@model CreateProductDto
+@{
+    ViewData["Title"] = "CreateProduct";
+    Layout = "~/Areas/EstateAgent/Views/EstateAgentLayout/Index.cshtml";
+}
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4">Create Product</h6>
+                <form method="post" class="form-group">
+                    <label>Title</label>
+                    <input asp-for="Title" class="form-control" placeholder="Please enter title" />
+                    <br />
+                    <label>City</label>
+                    <input asp-for="City" class="form-control" placeholder="Please enter city" />
+                    <br />
+                    <label>District</label>
+                    <input asp-for="District" class="form-control" placeholder="Please enter district" />
+                    <br />
+                    <label>Category</label>
+                    @Html.DropDownListFor(x => x.ProductCategory, (List<SelectListItem>)ViewBag.v, new { @class = "form-control" })
+                    <br />
+                    <label>Price</label>
+                    <input asp-for="Price" class="form-control" placeholder="Please enter price" />
+                    <br />
+                    <label>Type</label>
+                    <input asp-for="Type" class="form-control" placeholder="Please enter type" />
+                    <br />
+                    <label>Picture</label>
+                    <input asp-for="CoverImage" class="form-control" placeholder="Please enter picture url" />
+                    <br />
+                    <label>Address</label>
+                    <textarea asp-for="Address" class="form-control" rows="5" placeholder="Please enter address"></textarea>
+                    <br />
+                    <label>AnnouncementDate</label>
+                    <textarea asp-for="AnnouncementDate" class="form-control" rows="5" placeholder="Please enter address"></textarea>
+                    <br />
+                    <label>Description</label>
+                    <textarea asp-for="Description" class="form-control" rows="5" placeholder="Please enter address"></textarea>
+                    <br />
+                    <button class="btn btn-primary">Save</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+

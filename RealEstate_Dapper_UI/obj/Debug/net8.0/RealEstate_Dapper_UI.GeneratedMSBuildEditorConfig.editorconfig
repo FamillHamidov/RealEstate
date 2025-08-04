@@ -34,8 +34,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcVmlld3NcRXN0YXRlQWdlbnRMYXlvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Areas/EstateAgent/Views/MyAds/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcVmlld3NcTXlBZHNcSW5kZXguY3NodG1s
+[C:/Users/Dell/source/repos/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Areas/EstateAgent/Views/MyAds/ActiveAdverts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcVmlld3NcTXlBZHNcQWN0aXZlQWR2ZXJ0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/source/repos/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Areas/EstateAgent/Views/MyAds/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcVmlld3NcTXlBZHNcQ3JlYXRlUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/source/repos/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Areas/EstateAgent/Views/MyAds/PassiveAdverts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcVmlld3NcTXlBZHNcUGFzc2l2ZUFkdmVydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/source/repos/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Areas/EstateAgent/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRXN0YXRlQWdlbnRcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Dell/source/repos/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Admin/Index.cshtml]
@@ -186,12 +198,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0VzdGF0ZUFnZW50RGFzaGJvYXJkQ2hhcnRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Dell/source/repos/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_EstateAgentDashboardLastProductsComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0VzdGF0ZUFnZW50RGFzaGJvYXJkTGFzdFByb2R1Y3RzQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Dell/source/repos/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_EstateAgentDashboardStatisticsComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0VzdGF0ZUFnZW50RGFzaGJvYXJkU3RhdGlzdGljc0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Dell/source/repos/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_EstateAgentLayoutSidebarComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0VzdGF0ZUFnZW50TGF5b3V0U2lkZWJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/source/repos/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_EstateAgentNavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0VzdGF0ZUFnZW50TmF2YmFyQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dell/source/repos/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_EstateAgentNavbarMessageComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0VzdGF0ZUFnZW50TmF2YmFyTWVzc2FnZUNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Dell/source/repos/RealEstate_Dapper_Api/RealEstate_Dapper_UI/Views/Shared/Components/_FooterViewComponentPartial/Default.cshtml]
